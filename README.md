@@ -1,3 +1,3 @@
 # nQueens
 
-This is a simple project that solve the nQueens problem using sequential programming, pthread, and OpenMP.
+This is a simple project which solves the nQueens problem using sequential programming, pthread, and OpenMP.
